@@ -1,0 +1,35 @@
+ .heading {
+                padding: 40px;
+                font-size: 28px;
+                font-weight: bold;
+                text-align: center;
+                background: #a4bdff;
+            }
+           
+ 
+            .section {
+               background-color: #bcdffb;
+               padding: 20px;
+               margin-top: 30px;
+            }
+
+            .book {
+              background-color:#abbcff;
+              padding: 20px;
+              margin-top: 30px;
+            }
+
+            /* This was added by Chat GPT; it a */
+            .body {
+              font-family: Lato;
+              color: #333;
+              text-align: center;
+              margin: 0;
+              padding: 0;
+            }
+
+            .img {
+              border: 3px solid #4a90e2; 
+              border-radius: 10px;
+              padding: 5px; 
+            }
